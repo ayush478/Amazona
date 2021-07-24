@@ -13,7 +13,7 @@
     "data:destroy": "node backend/seeder -d",
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix frontend && npm run build --prefix frontend"
   },
-  "author": "Brad Traversy",
+  "author": "Ayush Sunariya",
   "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
@@ -24,10 +24,9 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.10.6",
     "morgan": "^1.10.0",
-    "multer": "^1.4.2"
-  },
-  "devDependencies": {
+    "multer": "^1.4.2",
     "concurrently": "^5.3.0",
     "nodemon": "^2.0.4"
   }
+  
 }
