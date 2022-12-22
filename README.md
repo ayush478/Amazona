@@ -1,5 +1,5 @@
 <h1 align="center">
-   🛒 <a href="https://ayush-e-commerce.herokuapp.com/"> Shop Nest (Live site link) </a>
+   🛒 <a href="https://shop-nest.onrender.com/"> Shop Nest (Live site link) </a>
 </h1>
 # Shop Nest eCommerce Platform
 
